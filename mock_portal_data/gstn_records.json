@@ -1,0 +1,38 @@
+[
+  {
+    "gstin": "33AAAAA1111A1Z1",
+    "legal_name": "Chennai Petroleum Corporation Limited",
+    "trade_name": "CPCL",
+    "status": "Active",
+    "state_code": "33",
+    "address": "536, Anna Salai, Teynampet, Chennai, Tamil Nadu 600018",
+    "registration_date": "2017-07-01"
+  },
+  {
+    "gstin": "33ABCDE1234F1Z5",
+    "legal_name": "Super Mech Engineers Chennai Private Limited",
+    "trade_name": "Super Mech Engineers",
+    "status": "Active",
+    "state_code": "33",
+    "address": "12, Industrial Estate, Ambattur, Chennai, Tamil Nadu 600058",
+    "registration_date": "2018-03-15"
+  },
+  {
+    "gstin": "27XYZAB5678C2Z4",
+    "legal_name": "Western Piping Solutions Private Limited",
+    "trade_name": "Western Piping Solutions",
+    "status": "Active",
+    "state_code": "27",
+    "address": "45, MIDC Industrial Area, Andheri East, Mumbai, Maharashtra 400093",
+    "registration_date": "2019-10-10"
+  },
+  {
+    "gstin": "33EFGHI9012J1Z0",
+    "legal_name": "Apex Boiler Services Ltd",
+    "trade_name": "Apex Boilers",
+    "status": "Suspended",
+    "state_code": "33",
+    "address": "88, Trichy Road, Coimbatore, Tamil Nadu 641005",
+    "registration_date": "2017-08-20"
+  }
+]

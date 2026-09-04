@@ -1,0 +1,23 @@
+[
+  {
+    "establishment_id": "TNMAS0012345000",
+    "legal_name": "Super Mech Engineers Chennai Private Limited",
+    "status": "Active",
+    "address": "12, Industrial Estate, Ambattur, Chennai, Tamil Nadu 600058",
+    "coverage_date": "2018-04-01"
+  },
+  {
+    "establishment_id": "MHBAN0054321000",
+    "legal_name": "Western Piping Solutions Private Limited",
+    "status": "Active",
+    "address": "45, MIDC Industrial Area, Andheri East, Mumbai, Maharashtra 400093",
+    "coverage_date": "2019-11-01"
+  },
+  {
+    "establishment_id": "TNMAS0099999000",
+    "legal_name": "Apex Boiler Services Ltd",
+    "status": "Inactive",
+    "address": "88, Trichy Road, Coimbatore, Tamil Nadu 641005",
+    "coverage_date": "2017-09-01"
+  }
+]

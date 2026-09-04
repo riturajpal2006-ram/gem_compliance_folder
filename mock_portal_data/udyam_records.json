@@ -1,0 +1,29 @@
+[
+  {
+    "udyam_number": "UDYAM-TN-01-0012345",
+    "enterprise_name": "Super Mech Engineers Chennai Private Limited",
+    "enterprise_type": "Small",
+    "major_activity": "Manufacturing",
+    "organization_type": "Private Limited Company",
+    "status": "Active",
+    "registration_date": "2020-07-15"
+  },
+  {
+    "udyam_number": "UDYAM-MH-12-0054321",
+    "enterprise_name": "Western Piping Solutions Private Limited",
+    "enterprise_type": "Medium",
+    "major_activity": "Manufacturing",
+    "organization_type": "Private Limited Company",
+    "status": "Active",
+    "registration_date": "2020-09-01"
+  },
+  {
+    "udyam_number": "UDYAM-TN-01-0099999",
+    "enterprise_name": "Apex Boiler Services Ltd",
+    "enterprise_type": "Micro",
+    "major_activity": "Services",
+    "organization_type": "Public Limited Company",
+    "status": "Inactive",
+    "registration_date": "2021-01-10"
+  }
+]

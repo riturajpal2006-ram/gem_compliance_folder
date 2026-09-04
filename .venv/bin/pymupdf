@@ -1,0 +1,6 @@
+#!/Users/palrituraj/rp_108.cpp/gem_compliance_folder/.venv/bin/python3
+import sys
+from fitz.__main__ import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())
